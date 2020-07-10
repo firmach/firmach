@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm an iOS dev from Redmadrobot / Moscow.
+
+Currrently trying some SwiftUI stuff you can find below.
+
+
+Feel free to [![](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/Firmach) me if you have any questions or suggestions.
+
 <!--
 **firmach/firmach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
