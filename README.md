@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-I'm an iOS dev from Redmadrobot / Moscow.
-
-Currrently trying some SwiftUI stuff you can find below.
-
+I'm an iOS chapter lead from Mission:Luna / Moscow.
 
 Feel free to [![](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/Firmach) me if you have any questions or suggestions.
 
