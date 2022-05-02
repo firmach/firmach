@@ -4,7 +4,9 @@
     Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   </h1>
   <p>
-    My name is Roman and I'm a head of iOS @ Mission:Luna. I'm from Russia, living in Moscow. Feel free to contact me.
+    My name is Roman and I'm a head of iOS @ Mission:Luna. I'm from Russia, living in Moscow.
+    </br>
+    Feel free to contact me.
   </p>
   <div id="badges">
     <a href="your-linkedin-URL">
