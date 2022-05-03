@@ -1,5 +1,8 @@
 <div id="header" align="center">
-  <img src="https://github.com/firmach/firmach/blob/master/avatar.png" width="160px">
+  <img src="https://github.com/firmach/firmach/blob/master/media/dreaming.png" width="160px">
+  <img src="https://github.com/firmach/firmach/blob/master/media/idea.png" width="160px">
+  <img src="https://github.com/firmach/firmach/blob/master/media/code.png" width="160px">
+  <img src="https://github.com/firmach/firmach/blob/master/media/success.png" width="160px">
   <h1>
     Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   </h1>
