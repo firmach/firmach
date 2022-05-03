@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://github.com/firmach/firmach/blob/master/media/dreaming.png" width="160px">
   <img src="https://github.com/firmach/firmach/blob/master/media/idea.png" width="160px">
   <img src="https://github.com/firmach/firmach/blob/master/media/code.png" width="160px">
@@ -11,7 +11,8 @@
     </br>
     Feel free to contact me.
   </p>
-  <div id="badges">
+  </br>
+  <div>
     <a href="https://www.linkedin.com/in/churkin/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -21,42 +22,32 @@
   </div>
   <div>
     </br>
+    </br>
     <p><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a></p>
   </div>
 </div>
 </br>
 </br>
 
-#### Here some of my recent projects
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/RedMadRobot/NeumorphicWallet">
-        <img src="https://github.com/RedMadRobot/NeumorphicWallet/blob/master/preview-2.png" width="270"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/firmach/CreditCards">
-        <img src="https://github.com/firmach/CreditCards/blob/master/preview.gif" width="220"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <a href="https://github.com/RedMadRobot/PrioritizedTabBar">
-        <img src="https://github.com/Redmadrobot/PrioritizedTabBar/blob/master/preview.gif" width="520"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <a href="https://github.com/RedMadRobot/Alarm-Clock">
-        <img src="https://github.com/Redmadrobot/Alarm-Clock/blob/master/preview.gif" width="520"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>
+    Here some of my recent projects
+  </h3>
+  <a href="https://github.com/RedMadRobot/NeumorphicWallet">
+    <img src="https://github.com/RedMadRobot/NeumorphicWallet/blob/master/preview-2.png" width="270"/>
+  </a>
+  <a href="https://github.com/firmach/CreditCards">
+    <img src="https://github.com/firmach/CreditCards/blob/master/preview.gif" width="230" align="top"/>
+  </a>
+  </br>
+  <a href="https://github.com/RedMadRobot/PrioritizedTabBar">
+    <img src="https://github.com/Redmadrobot/PrioritizedTabBar/blob/master/preview.gif" width="520"/>
+  </a>
+  </br>
+  <a href="https://github.com/RedMadRobot/Alarm-Clock">
+    <img src="https://github.com/Redmadrobot/Alarm-Clock/blob/master/preview.gif" width="520"/>
+  </a>
+</div>
 
 <!--
 **firmach/firmach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
