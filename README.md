@@ -31,7 +31,7 @@
 
 <div align="center">
   <h3>
-    Here some of my recent projects
+    Here are some of my recent projects
   </h3>
   <a href="https://github.com/RedMadRobot/NeumorphicWallet">
     <img src="https://github.com/RedMadRobot/NeumorphicWallet/blob/master/preview-2.png" width="270"/>
