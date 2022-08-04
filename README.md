@@ -7,7 +7,7 @@
     Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   </h1>
   <p>
-    My name is Roman and I'm a head of iOS @ Mission:Luna. I'm from Russia, living in Moscow.
+    My name is Roman and I'm a iOS dev @ Picnic, Amsterdam
     </br>
     Feel free to contact me.
   </p>
