@@ -7,8 +7,10 @@
     Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   </h1>
   <p>
-    My name is Roman and I'm a iOS dev @ Picnic, Amsterdam
-    </br>
+    My name is Roman and I'm a iOS dev living in Amsterdam
+    </br></br>
+    <a href="https://www.linkedin.com/in/churkin/?locale=en_US" target="_blank" rel="noreferrer"><img src="https://badgen.net/badge/Currently/Open%20to%20work/orange?labelColor=orange&scale=1.5&icon=https://simpleicons.now.sh/swift/fff" alt="I'm open to work"></a>
+    </br></br>
     Feel free to contact me.
   </p>
   </br>
