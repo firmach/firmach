@@ -33,6 +33,10 @@
 
 <div align="center">
   <h3>
+    Publications
+  </h3>
+  <p><a href="https://medium.com/@firmach/how-to-use-uiactivityviewcontroller-to-share-stories-to-instagram-from-your-ios-app-74ee003d147e">How to use UIActivityViewController to share stories to Instagram from your iOS app</a></p></br>
+  <h3>
     Here are some of my recent projects
   </h3>
   <a href="https://github.com/RedMadRobot/NeumorphicWallet">
