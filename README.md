@@ -8,9 +8,9 @@
   </h1>
   <p>
     My name is Roman and I'm an iOS developer living in Amsterdam
-    </br></br>
+<!--     </br></br>
     <a href="https://www.linkedin.com/in/churkin/?locale=en_US" target="_blank" rel="noreferrer"><img src="https://badgen.net/badge/Currently/Open%20to%20work/orange?labelColor=orange&scale=1.5&icon=https://simpleicons.now.sh/swift/fff" alt="I'm open to work"></a>
-    </br></br>
+    </br></br> -->
     Feel free to contact me.
   </p>
   </br>
